@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <!-- HEader Section -->
+    <header>
+        <div class="logo">
+            <a href="index.html"
+              ><img src="assets/images/logo.png" alt="T-NARG LOGO" width="350"
+            /></a>
+          </div>
+    </header>
+
+    <!-- Navigation Section -->
+    <nav>
+        <a href="pages\page1\index.html">Players</a>
+        <a href="index.html">Leaderboard</a>
+    </nav>
+
+    <!-- Leaderboard Section -->
+    <div class="container">
+        <h1>Leaderboard</h1>
+        <div class="controls">
+            <label for="sort">Sort by:</label>
+            <select id="sort">
+                <option value="name">Name</option>
+                <option value="score">Score</option>
+                <option value="level">Level</option>
+            </select>
+        </div>
+        <table id="leaderboard">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Score</th>
+                    <th>Level</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!--Player rows-->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="assets/js/script.js"></script>
+</body>
+</html>
