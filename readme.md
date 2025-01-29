@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Tnarg27/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/logo.png" alt="T-NARG" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="T-NARG" width="350" height="350">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">T-NARG</h3>
@@ -59,7 +59,7 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- MultiPage Website
 - Parallax transition
 - Transactional
 
@@ -69,9 +69,4 @@ Guiding Question:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-## Resources
-
-<!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+"# AWD-Seatwork-1-1-PG-25" 
